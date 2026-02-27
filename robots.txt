@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sierrapowerdelivery.com/sitemap.xml
